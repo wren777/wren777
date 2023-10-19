@@ -1,8 +1,7 @@
 ![Header](https://github.com/wren777/wren777/blob/main/assets/vj1PCIz_XG0.jpg)
 
 # Портфолио QA Engineer 
-<font color=»white»>Текст
-## Testing Documentatio
+<font color=»white»>## Testing Documentatio
 </font>
 
 - [Checklist](https://github.com/wren777/CheckList)
