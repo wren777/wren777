@@ -1,4 +1,4 @@
-![Header](https://github.com/wren777/wren777/blob/main/assets/vj1PCIz_XG0.jpg)
+![Header](https://github.com/wren777/wren777/blob/main/assets/quality-assurance-application-development-2048x1075.jpg)
 
 # Портфолио QA Engineer 
 <font color=»white»>Testing Documentatio
