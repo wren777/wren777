@@ -10,14 +10,18 @@
 
 <font color=»white»>Тест-анализ артефакты
 </font>
-- [Интелект карта и блок-схема]
+
+- [Интелект карта и блок-схема](https://github.com/wren777/Mindemap-and-BlockDiagram)
 
  <font color=»white»>Тестирование бэкенда артефакты
 </font>
-- [PostgreSQL запросы]
-- [Postman коллекция]
-- [Charles подмена ответов от бэкенда]
+
+- [PostgreSQL запросы](https://github.com/wren777/PostgreSQL-query)
+- [Postman коллекция](https://github.com/wren777/Postman-Collection)
+- [Charles подмена ответов от бэкенда](https://github.com/wren777/CharlesProxy-)
+- [BASH команды в терминале](https://github.com/wren777/BASH)
 
 <font color=»white»>Автоматизированное тестирование 
 </font>
-- [Pytest]  
+
+- [Pytest](https://github.com/wren777/PyTest)  
