@@ -6,7 +6,7 @@
 
 - [Чек-листы](https://github.com/wren777/CheckList)
 - [Тест-кейсы](https://github.com/wren777/TestCase)
-- [Баг-репорты](https://github.com/wren777/BugReports)
+- [Баг-репорты](https://github.com/wren777/BugReport)
 
 <font color=»white»>Тест-анализ артефакты
 </font>
