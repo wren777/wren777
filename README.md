@@ -1,17 +1,23 @@
 ![Header](https://github.com/wren777/wren777/blob/main/assets/quality-assurance-application-development-2048x1075.jpg)
 
 # Портфолио QA Engineer 
-<font color=»white»>Test Documentation
+<font color=»white»>Тестовая документация
 </font>
 
-- [Checklist](https://github.com/wren777/CheckList)
-- [Test Case](https://github.com/wren777/TestCase)
-- [Bug Reports](https://github.com/wren777/BugReports)
+- [Чек-листы](https://github.com/wren777/CheckList)
+- [Тест-кейсы](https://github.com/wren777/TestCase)
+- [Баг-репорты](https://github.com/wren777/BugReports)
 
-<font color=»white»>Test-Analis artefact
+<font color=»white»>Тест-анализ артефакты
 </font>
-- [Mindmap and block]
+- [Интелект карта и блок-схема]
 
-### Testing backend artefact
-- [SQL query]
-- []
+ <font color=»white»>Тестирование бэкенда артефакты
+</font>
+- [PostgreSQL запросы]
+- [Postman коллекция]
+- [Charles подмена ответов от бэкенда]
+
+<font color=»white»>Автоматизированное тестирование 
+</font>
+- [Pytest]  
