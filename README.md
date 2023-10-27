@@ -6,16 +6,7 @@
 
 #### В этом портфолио я собрал артефакты которые сделал на учебных проектах - тестовая документация, примеры работы со сниферром, интелект карты. Надеюсь оно оставит хорошее впечатление и покажет меня, как перспективного специалиста по тестированию ПО.  
 #### Моё резюме http:// 
-Проживаю в г. Домодедово 
-#### Контакты:
-<font color=»white»>Mob: +7(926)698-72-08 
-</font>
 
-<font color=»white»>Telegram: @voverman 
-</font>
-
-<font color=»white»>Email: v.verkhoturov88@mail.ru
-</font>
 
 <font color=»white»>Тестовая документация
 </font>
@@ -44,3 +35,16 @@
 </font>
 
 - [Pytest](https://github.com/wren777/PyTest)  
+
+
+#### Контакты:
+Проживаю в г. Домодедово 
+
+<font color=»white»>Mob: +7(926)698-72-08 
+</font>
+
+<font color=»white»>Telegram: @voverman 
+</font>
+
+<font color=»white»>Email: v.verkhoturov88@mail.ru
+</font>
