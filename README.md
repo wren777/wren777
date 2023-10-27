@@ -24,7 +24,10 @@
 - [Тест-кейсы](https://github.com/wren777/TestCase)
 - [Баг-репорты](https://github.com/wren777/BugReport)
 
-<font color=»white»>Тест-анализ артефакты
+<font color=»white»>
+
+###Тест-анализ артефакты
+
 </font>
 
 - [Интелект карта и блок-схема](https://github.com/wren777/Mindemap-and-BlockDiagram)
