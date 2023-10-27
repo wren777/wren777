@@ -15,10 +15,7 @@
 - [Тест-кейсы](https://github.com/wren777/TestCase)
 - [Баг-репорты](https://github.com/wren777/BugReport)
 
-<font color=»white»>
-
-###Тест-анализ артефакты
-
+<font color=»white»>Тест-анализ артефакты
 </font>
 
 - [Интелект карта и блок-схема](https://github.com/wren777/Mindemap-and-BlockDiagram)
@@ -37,8 +34,7 @@
 - [Pytest](https://github.com/wren777/PyTest)  
 
 
-#### Контакты:
-Проживаю в г. Домодедово 
+#### Контакты и доп. информация:
 
 <font color=»white»>Mob: +7(926)698-72-08 
 </font>
@@ -48,3 +44,6 @@
 
 <font color=»white»>Email: v.verkhoturov88@mail.ru
 </font>
+
+Проживаю в г. Домодедово 
+Моё резюме http:// 
