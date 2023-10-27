@@ -21,15 +21,13 @@
  <font color=»white»>Тестирование бэкенда артефакты
 </font>
 
-- [PostgreSQL запросы](https://github.com/wren777/PostgreSQL-query)
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
 - [Charles подмена ответов от бэкенда](https://github.com/wren777/CharlesProxy-)
-- [BASH команды в терминале](https://github.com/wren777/BASH)
 
-<font color=»white»>Автоматизированное тестирование 
+<font color=»white»>....
 </font>
 
-- [Pytest](https://github.com/wren777/PyTest)  
+- [....](https://github.com/wren777/PyTest)  
 
 
 #### Контакты и доп. информация:
