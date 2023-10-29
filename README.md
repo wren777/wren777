@@ -26,13 +26,13 @@
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
 - [Charles подмена ответов от бэкенда](https://github.com/wren777/CharlesProxy-)
 
-<font color=»white»>....
+<font color=»white»>Дополнительная информация 
 </font>
 
-- [....](https://github.com/wren777/PyTest)  
+- [Диплом, письма](https://github.com/wren777/additional-information)  
 
 
-#### Контакты и доп. информация:
+#### Контакты и полезные ссылки:
 
 <font color=»white»>Mob: +7(926)698-72-08 
 </font>
