@@ -47,7 +47,7 @@
 <font color=»white»>Email: v.verkhoturov88@mail.ru
 </font>
 
-<font color=»white»>Проживаю в г. Домодедово 
+<font color=»white»>Локация: Московская облась, г. Домодедово 
 </font>
 
 
