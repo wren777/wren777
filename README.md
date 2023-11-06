@@ -35,7 +35,8 @@
 - [Диплом, письма](https://github.com/wren777/additional-information)  
 
 
-#### Контакты:
+<font color=»white»>Контакты:
+</font>
 
 <font color=»white»>Mob: +7(926)698-72-08 
 </font>
