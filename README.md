@@ -18,10 +18,12 @@
 - [Тест-кейсы](https://github.com/wren777/TestCase)
 - [Баг-репорты](https://github.com/wren777/BugReport)
 
-<font color=»white»>Тест-анализ артефакты
+<font color=»white»>Артефакты тест-анализа и тест-дизайна
 </font>
 
 - [Интелект карты и блок-схема](https://github.com/wren777/Mindemap-and-BlockDiagram)
+- [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
+
 
  <font color=»white»>Тестирование бэкенда артефакты
 </font>
