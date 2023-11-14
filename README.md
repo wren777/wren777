@@ -17,6 +17,7 @@
 - [Чек-листы](https://github.com/wren777/CheckList)
 - [Тест-кейсы](https://github.com/wren777/TestCase)
 - [Баг-репорты](https://github.com/wren777/BugReport)
+- [Отчёты по тестированию](https://github.com/wren777/Testing-Report)
 
 <font color=»white»>Артефакты тест-анализа и тест-дизайна
 </font>
@@ -25,11 +26,13 @@
 - [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
 
 
- <font color=»white»>Тестирование бэкенда артефакты
+ <font color=»white»>Артефакты по тестирование бэкенда
 </font>
 
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
 - [Charles подмена ответов от бэкенда](https://github.com/wren777/CharlesProxy-)
+
+
 
 <font color=»white»>Дополнительная информация 
 </font>
