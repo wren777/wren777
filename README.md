@@ -31,8 +31,7 @@
 </font>
 
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
-- [Charles](https://github.com/wren777/
-CharlesProxy-)
+- [Charles](https://github.com/wren777/CharlesProxy-)
 - [Тестовая документация](https://github.com/wren777/Testing-Report)
 
 <font color=»white»>Проект по тестированию веб-приложения Яндекс Маршруты
