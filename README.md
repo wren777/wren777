@@ -11,27 +11,34 @@
 
 </font>
 
-<font color=»white»>Тестовая документация
+<font color=»white»>Проект интернет-магазин "Рублевский" (мобилка)
 </font>
 
-- [Чек-листы](https://github.com/wren777/CheckList)
+- [Тестовая документация](https://github.com/wren777/Test_Doc_Rublevsky)
+
 - [Тест-кейсы](https://github.com/wren777/TestCase)
 - [Баг-репорты](https://github.com/wren777/BugReport)
 - [Отчёты по тестированию](https://github.com/wren777/Testing-Report)
 
-<font color=»white»>Артефакты тест-анализа и тест-дизайна
+<font color=»white»>Финальный проект тестирование веб-приложения Яндекс Самокат  
 </font>
 
-- [Интеллект карты и блок-схема](https://github.com/wren777/Mindemap-and-BlockDiagram)
+- [Тестовая документация](https://github.com/wren777/Mindemap-and-BlockDiagram)
 - [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
 
 
- <font color=»white»>Артефакты по тестирование бэкенда
+ <font color=»white»>Проект по тестированию API в приложении Яндекс Прилавок
 </font>
 
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
-- [Charles подмена ответов от бэкенда](https://github.com/wren777/CharlesProxy-)
+- [Charles](https://github.com/wren777/
+CharlesProxy-)
+- [Тестовая документация](https://github.com/wren777/Testing-Report)
 
+<font color=»white»>Проект по тестированию веб-приложения Яндекс Маршруты
+</font>
+
+- [Тестовая документация](https://github.com/wren777/BugReport)
 
 
 <font color=»white»>Дополнительная информация 
