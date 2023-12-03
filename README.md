@@ -36,6 +36,7 @@
 - [Charles](https://github.com/wren777/CharlesProxy-)
 - [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
 - [Тестовая документация](https://github.com/wren777/BugReport)
+- [Интеллект карты и блок-схема](https://github.com/wren777/Mind_map)
 
 
 <font color=»white»>Дополнительная информация 
