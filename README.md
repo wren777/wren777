@@ -24,19 +24,20 @@
 </font>
 
 - [Тестовая документация](https://github.com/wren777/Mindemap-and-BlockDiagram)
-- [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
+
 
 
  <font color=»white»>Проект по тестированию API в приложении Яндекс Прилавок
 </font>
 
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
-- [Charles](https://github.com/wren777/CharlesProxy-)
 - [Тестовая документация](https://github.com/wren777/Testing-Report)
 
 <font color=»white»>Проект по тестированию веб-приложения Яндекс Маршруты
 </font>
 
+- [Charles](https://github.com/wren777/CharlesProxy-)
+- [Таблица с КЭ и ГЗ, ТПР](https://github.com/wren777/Test-desinger)
 - [Тестовая документация](https://github.com/wren777/BugReport)
 
 
