@@ -16,9 +16,6 @@
 
 - [Тестовая документация](https://github.com/wren777/Test_Doc_Rublevsky)
 
-- [Тест-кейсы](https://github.com/wren777/TestCase)
-- [Баг-репорты](https://github.com/wren777/BugReport)
-- [Отчёты по тестированию](https://github.com/wren777/Testing-Report)
 
 <font color=»white»>Финальный проект тестирование веб-приложения Яндекс Самокат  
 </font>
