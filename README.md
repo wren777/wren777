@@ -17,10 +17,10 @@
 - [Тестовая документация](https://github.com/wren777/Test_Doc_Rublevsky)
 
 
-<font color=»white»>Финальный проект тестирование веб-приложения Яндекс Самокат  
+<font color=»white»>Финальный проект тестирование мобильного и веб-приложения Яндекс Самокат  
 </font>
 
-- [Тестовая документация](https://github.com/wren777/Mindemap-and-BlockDiagram)
+- [Тестовая документация](https://github.com/wren777/Test_Doc_Samokat)
 
 
 
@@ -28,7 +28,7 @@
 </font>
 
 - [Postman коллекция](https://github.com/wren777/Postman-Collection)
-- [Тестовая документация](https://github.com/wren777/Testing-Report)
+- [Тестовая документация](https://github.com/wren777/Test_Doc_API)
 
 <font color=»white»>Проект по тестированию веб-приложения Яндекс Маршруты
 </font>
